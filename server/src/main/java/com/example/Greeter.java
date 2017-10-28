@@ -14,6 +14,8 @@ public class Greeter {
 
 /**
  * this is a checkstyle
+ * @param
+ * @return
  */
   public final String greet(final String someone) {
     return String.format("Hello, %s!", someone);
